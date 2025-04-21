@@ -12,7 +12,7 @@ MLLM-CompBench is a benchmark designed to evaluate the comparative reasoning cap
 MLLM-CompBench mines and pairs images through visually oriented questions covering eight dimensions of relative comparison: visual attribute, existence, state, emotion, temporality, spatiality, quantity, and quality. MLLM-CompBench comprises around 40K image pairs collected from a broad array of visual domains, including animals, fashion, sports, and both outdoor and indoor scenes. The questions are carefully crafted to discern relative characteristics between two images and are labeled by human annotators for accuracy and relevance.
 
 ## Updates 
-- 🔥 **April 17, 2025**: We provide **updated annotations** and **processed data**. The processed data contains 44,683 images for 39.8K image-question pairs in MLLM-CompBench. Feel free to open issues if you have any questions. 
+- 🔥 **April 17, 2025**:  We provide ${\large \color{red} \textbf{updated} \space \textbf{annotations}}$ and ${\large \color{red} \textbf{processed} \space \textbf{data}}$ to enable direct evaluation. The processed data contains 44,683 images for 39.8K image-question pairs in MLLM-CompBench. Feel free to open issues if you have any questions. 
 
 
 ## Preparing images
